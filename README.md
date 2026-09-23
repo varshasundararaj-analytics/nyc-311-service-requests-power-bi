@@ -375,14 +375,11 @@ It also reinforced the importance of designing dashboards around the **questions
 
 ## 👩‍💻 Author
 
-### Varsha Sundararaj
+**Varsha Sundararaj**
 
-**MSc Business Analytics**  
-Dublin Business School, Ireland
+Business Analytics Postgraduate @ Dublin Business School 
 
-Former **Product Support Technical Advisor – IQVIA**
-
-Aspiring **Data Analyst | Business Analyst**
+Aspiring Data Analyst | NLP | SQL | Python
 
 ### 🔗 Connect
 
